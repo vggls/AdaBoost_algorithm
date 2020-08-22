@@ -1,6 +1,6 @@
 # Decision Stumps & Adaboost
 
-Part I : Decision Stumps
+Part I : We implement a Decision Stumps classifier
 
 Part II : We implement the AdaBoost method defined on pages 658-659 in Bishop (Section 14.3) and use Decision Stumps as weak classifiers.
 
